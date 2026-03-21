@@ -1,2 +1,2 @@
-# owsap-top-10-tryhackme
+# TryHackMe OWSAP TOP 10
 writes-ups and solution for TryHackMe OWSAP TOP 10
