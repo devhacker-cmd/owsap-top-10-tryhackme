@@ -7,3 +7,4 @@
 ![image alt](https://github.com/devhacker-cmd/owsap-top-10-tryhackme/blob/775d74eb5fabca4444ddc2d1a4e475d1203f12a5/Screenshot%202026-03-22%20121534.png)
 ## A09: LOGGING & ALERTING FAILURES
 ![image alt](https://github.com/devhacker-cmd/owsap-top-10-tryhackme/blob/8c1edefabeb7b8028f26a0610db75233d765eaa2/Screenshot%202026-03-22%20121943.png)
+![image  alt](https://github.com/devhacker-cmd/owsap-top-10-tryhackme/blob/dd3b4122953c11c1da2a5bf2f9389e3cc41c89cf/Screenshot%202026-03-22%20122009.png)
