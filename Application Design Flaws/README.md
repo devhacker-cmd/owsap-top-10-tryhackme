@@ -6,3 +6,4 @@
 ## AS03 : SOFTWARE SUPPLY CHAIN FAILURE
 ![image alt](https://github.com/devhacker-cmd/owsap-top-10-tryhackme/blob/39e5efe9cf47a52537f9fe4912d219fe424d5893/Screenshot%202026-03-22%20133427.png)
 ## AS04 : CRYPTOGRAPHIC FAILURES
+![image alt](https://github.com/devhacker-cmd/owsap-top-10-tryhackme/blob/57db7bf04fc1f752a4d980f934dea72c208b18ae/Screenshot%202026-03-22%20172201.png)
