@@ -1,1 +1,1 @@
-
+## Explore CVE-2021-44228, a vulnerability in log4j affecting almost all software under the sun.
